@@ -1,0 +1,7 @@
+sakhno\springframework\sfgjms\config\JmsConfig.class
+sakhno\springframework\sfgjms\SfgJmsApplication.class
+sakhno\springframework\sfgjms\listener\HelloMessageListener.class
+sakhno\springframework\sfgjms\sender\HelloSender.class
+sakhno\springframework\sfgjms\config\TaskConfig.class
+sakhno\springframework\sfgjms\model\HelloWorldMessage$HelloWorldMessageBuilder.class
+sakhno\springframework\sfgjms\model\HelloWorldMessage.class
